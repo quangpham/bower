@@ -4,6 +4,7 @@
   "main": [
     "./dist/js/WebViewJsBridge.js",
     "./dist/js/qpFastClick.js",
-    "./dist/js/angular-phonegap.js"    
+    "./dist/js/angular-phonegap.js",
+    "./dist/js/cordova.ios.3.1.0.js "
   ]
 }
