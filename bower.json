@@ -2,6 +2,8 @@
   "name": "quangpham-bower",
   "version": "1.0.0",
   "main": [
-    "./dist/js/WebViewJsBridge.js"
+    "./dist/js/WebViewJsBridge.js",
+    "./dist/js/qpFastClick.js",
+    "./dist/js/angular-phonegap.js"    
   ]
 }
