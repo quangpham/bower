@@ -28,7 +28,7 @@
 	}
 
 	function send(data, responseCallback) {
-		_doSend({ data:data }, responseCallback)
+		_doSend(data, responseCallback)
 	}
 	
 	function registerHandler(handlerName, handler) {
